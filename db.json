@@ -1,0 +1,12 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "name": "pippo"
+        },
+        {
+            "id": 2,
+            "name": "topolino"
+        }
+    ]
+}
